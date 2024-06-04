@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: dot-4624-repository
+spec:
+  url: https://github.com/rhtap-test-organization-jk/dot-4624
